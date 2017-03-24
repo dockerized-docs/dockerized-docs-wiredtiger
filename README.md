@@ -1,6 +1,6 @@
 # dockerized-docs-wiredtiger
 
-# What is it?#
+# What is it? #
 Dockerzied Wiredtiger site + developer documentation for offline use.
 
 # Image description #
