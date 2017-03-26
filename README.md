@@ -4,9 +4,9 @@
 Dockerzied Wiredtiger site + developer documentation for offline use.
 
 # Image description #
-- Base image: `httpd:2.4.23-alpine`.
-- The most current wiredtiger.github.com `master` branch is cloned.
-- Wiredtiger documentation directory (`/wiredtiger.github.com`) is linked to httpd `DocumentRoot` (`/usr/local/apache2/htdocs`).
+- Base image: `httpd:2.4.23-alpine`
+- The most current wiredtiger.github.com `master` branch is cloned
+- Wiredtiger documentation directory (`/wiredtiger.github.com`) is linked to httpd `DocumentRoot` (`/usr/local/apache2/htdocs`)
 
 # How to use this image #
 
